@@ -75,6 +75,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[221]最大正方形.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[221]最大正方形.py" />
+              <option name="questionId" value="221" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[236]二叉树的最近公共祖先.py">
           <value>
             <LeetcodeEditor>
@@ -152,6 +160,22 @@
             <LeetcodeEditor>
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[589]N叉树的前序遍历.py" />
               <option name="questionId" value="775" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[647]回文子串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[647]回文子串.py" />
+              <option name="questionId" value="647" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[64]最小路径和.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[64]最小路径和.py" />
+              <option name="questionId" value="64" />
             </LeetcodeEditor>
           </value>
         </entry>
